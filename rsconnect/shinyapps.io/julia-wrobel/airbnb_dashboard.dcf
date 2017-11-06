@@ -1,0 +1,10 @@
+name: airbnb_dashboard
+title:
+username:
+account: julia-wrobel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 232465
+bundleId: 1061516
+url: https://julia-wrobel.shinyapps.io/airbnb_dashboard/
+when: 1509988392.81334
