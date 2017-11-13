@@ -26,7 +26,7 @@ airbnb_data = read_csv("nyc_airbnb.csv") %>%
   #mutate(rating = review_scores_location / 2) %>%
   #select(boro = neighbourhood_group, neighbourhood, rating, price, room_type,
          #latitude, longitude) %>%
-  filter(!is.na(rating)) 
+  filter(!is.na(rating))  
 
 ```
 
